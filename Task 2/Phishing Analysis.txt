@@ -1,0 +1,44 @@
+// PHISHING EMAIL ANALYSIS REPORT
+
+Case 1: Fake Google Login Alert
+
+- Email received from: no-reply@goooglehelp.net — “Google” is intentionally misspelled with an extra 'o'.
+- Link provided: http://gooogleaccount-check.com — clearly not an official domain.
+- The message says: "We've detected a suspicious login. Secure your account now!" — intended to scare the user into action.
+- The email uses a generic greeting like “Hi User” — no personalization.
+- The link uses HTTP instead of HTTPS — indicating an unsecured and unsafe site.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Case 2: Fake Paytm Verification Request
+
+- Email received from: service@paytm-verifier.in — not associated with Paytm’s official domain.
+- Link provided: http://verify-now-paytmwallet.com — highly suspicious and not legitimate.
+- The message reads: “Verify today or your wallet will be disabled” — creates unnecessary urgency.
+- Contains grammatical errors like: “Your wallet is suspend if no verify” — unprofessional and suspicious.
+- Overall tone of the email is designed to pressure the user into clicking the link quickly.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Case 3: Fake SBI KYC Alert
+
+- Email received from: alerts@sbionlinealert.org — not an official SBI email address.
+- Link provided: http://kyc-now-sbiupdate.com — not a valid SBI domain.
+- The message warns: “Your access is restricted due to pending KYC” — uses fear tactics.
+- Greeting says “Dear Customer” — lacks personalization.
+- The link again uses HTTP instead of HTTPS, which indicates it's not secure.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Header Analysis:
+The email headers were examined using "MxToolbox". It was observed that the "Reply-To" and "Return-Path" fields did not match, a common sign of spoofed or forged emails.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attachments:
+None of these emails had attachments. However, phishing emails often include malicious files disguised as invoices, PDFs, or zipped documents to install malware or steal data.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusion:
+All three samples demonstrate typical phishing techniques — fake sender domains, alarming language, generic greetings, insecure links, and grammar issues. These tactics aim to deceive the user into revealing personal or financial information. It's crucial to verify the sender and link before interacting with such emails.

@@ -1,0 +1,61 @@
+Case 1: Fake Google Login Alert
+
+Subject: Urgent: Suspicious Login Attempt on Your Google Account
+
+From: Google Security <no-reply@goooglehelp.net>
+
+Body:
+Dear User,
+
+We’ve noticed a suspicious login attempt from an unknown device. If this wasn’t you, your account may be at risk. Please secure your account now using the link below:
+
+http://gooogleaccount-check.com/security
+
+Failure to act in the next 24 hours may result in temporary suspension.
+
+Stay Safe,  
+Google Account Security Team
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Case 2: Fake Paytm Verification Request
+
+Subject: Important Notice: Verify Your Paytm Wallet Now
+
+From: Paytm Services <service@paytm-verifier.in>
+
+Body:
+Dear Customer,
+
+We are updating our KYC database. Your Paytm wallet will be disabled if not verified within 12 hours.
+
+Please click the link below to complete verification:
+
+http://verify-now-paytmwallet.com
+
+Note: If you ignore this message, your wallet may be permanently blocked.
+
+Regards,  
+Paytm Team
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Case 3: Fake SBI KYC Alert
+
+Subject: Final Warning: Your SBI Account Access is Restricted
+
+From: SBI Online Alert <alerts@sbionlinealert.org>
+
+Body:
+Dear Customer,
+
+Due to pending KYC verification, your internet banking access has been limited.
+
+To restore full access, please complete the KYC update at:
+
+http://kyc-now-sbiupdate.com
+
+This must be done within 48 hours to avoid permanent restrictions.
+
+Sincerely,  
+SBI Online Banking
